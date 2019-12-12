@@ -1,0 +1,5 @@
+IP,192,168,86,45
+GATEWAY,192,168,86,1
+SUBNET,255,255,255,0
+PIN,30,Vampyr-Fireplace,Button
+PIN,32,Vampyr-Cabinet,Button
